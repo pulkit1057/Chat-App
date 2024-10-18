@@ -14,12 +14,12 @@
 
 ### Login Page
 
-![Login Page](https://res.cloudinary.com/demo/image/upload/w_300/sample.jpg)
+![image](https://github.com/user-attachments/assets/93c1e5fd-0d1e-4f86-8e39-ad0313830e4c)
+
 
 ### Chat Screen
 
-![Chat Screen](https://res.cloudinary.com/demo/image/upload/w_300/sample.jpg)
-
+![image](https://github.com/user-attachments/assets/2bed5a57-7ec1-4ed8-b96e-86e8b6b9fab3)
 
 
 ## Technologies Used
