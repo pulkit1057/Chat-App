@@ -12,7 +12,15 @@
 
 ## Screenshots
 
-(Include some screenshots of the app’s UI to give users a visual overview)
+### Login Page
+
+![image](https://github.com/user-attachments/assets/93c1e5fd-0d1e-4f86-8e39-ad0313830e4c)
+
+
+### Chat Screen
+
+![image](https://github.com/user-attachments/assets/2bed5a57-7ec1-4ed8-b96e-86e8b6b9fab3)
+
 
 ## Technologies Used
 
@@ -20,43 +28,7 @@
 - **Dart**: Programming language optimized for building mobile, desktop, server, and web applications.
 - **Firebase**: Backend services for authentication, real-time database, and notifications.
 
-## Installation and Setup
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-   \`\`\`bash
-   git clone https://github.com/your-username/EchoChat.git
-   \`\`\`
-
-2. Navigate to the project directory:
-
-   \`\`\`bash
-   cd EchoChat
-   \`\`\`
-
-3. Install the dependencies:
-
-   \`\`\`bash
-   flutter pub get
-   \`\`\`
-
-4. Set up Firebase:
-
-   - Create a Firebase project.
-   - Enable Firebase Authentication, Firestore Database, and Cloud Messaging.
-   - Download the \`google-services.json\` file and place it in the \`android/app\` directory.
-
-5. Run the app:
-
-   \`\`\`bash
-   flutter run
-   \`\`\`
-
-## Firebase Setup
-
-Ensure that the Firebase project has the following:
+## Firebase Services Configuration
 
 - **Authentication**: Email/Password authentication is enabled.
 - **Firestore Database**: Set up Firestore for storing messages in real-time.
